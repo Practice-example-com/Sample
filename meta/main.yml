@@ -1,5 +1,5 @@
 galaxy_info:
-  author: Francisco Castello
+  author: Mohan Kalyan
   role_name: coredns_docker
   description: Role to start docker container running coredns
   company: pancho.dev
